@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="example.musicalstructureapp.MainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:text="@string/txt_paymentscreen"
+        android:id="@+id/tv_podcasts"
+        android:layout_below="@+id/tv_audiobook"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:textSize="30sp"
+        android:background="@color/button_material_light"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:text="@string/txt_music"
+        android:id="@+id/tv_music"
+        android:layout_below="@+id/tv_podcasts"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background="@color/button_material_light"
+        android:layout_margin="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+</RelativeLayout>

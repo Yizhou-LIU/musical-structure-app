@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Musical StructureApp Screen</string>
+    <string name="txt_paymentscreen">Payment Screen</string>
+    <string name="txt_payment">Modern payment gateways: easy setup, but higher fees</string>
+    <string name="txt_way">A few examples of “modern” payment gateways — those that don’t require a merchant account — are PayPal (all variations), Stripe, and Simplify Commerce.
+The biggest perk of these gateways is that you won’t need to change bank accounts or really do anything special to get up and running on the payment side, under most circumstances. Additionally, integrating these gateways with your store is usually a quick process.
+However, there are two downsides:
+Modern payment gateways usually charge larger per-transaction fees than classic gateways, and
+Nearly all of these gateways send customers off-site to make a payment, which can reduce conversions for some stores.
+You’ll read more about the off-site and on-site gateway difference shortly, but the fees especially are something to keep an eye on. For smaller stores, these fees are often not a big deal, but as you grow and process more transactions, they can add up very quickly.</string>
+    <string name="txt_music">In this page display Song Lists.</string>
+    <string name="title">Sample_Song.mp3</string>
+    <string name="name">songName</string>
+    <string name="detail">In this page display song detail information.</string>
+    <string name="duration">songDuration</string>
+    <string name="txt_play">This page play music</string>
+    <string name="app_music">Music List Screen</string>
+    <string name="app_musicplay">MusicPlay Screen</string>
+    <string name="app_detail">Music Detail Information Screen</string>
+</resources>
